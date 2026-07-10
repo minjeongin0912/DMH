@@ -1,0 +1,11 @@
+.vercel
+.env*
+node_modules
+dist
+.claude
+.pnpm-store
+_delete_after_server_stops
+_ppt_edit_*
+_ppt_ia_*
+.restore-candidates
+*.pptx

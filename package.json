@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@polar-sh/sdk": "^0.48.1",
+    "@vitejs/plugin-react": "latest",
+    "firebase": "^12.15.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "vite": "latest"
+  }
+}
